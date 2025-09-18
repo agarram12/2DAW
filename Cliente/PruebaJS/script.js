@@ -1,0 +1,1 @@
+document.write("Mensaje de JS");
